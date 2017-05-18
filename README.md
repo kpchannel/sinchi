@@ -65,7 +65,7 @@ and next bot ....
 after login your server
 
 ```
-cd TabChi
+cd sinchi
 ./anticrash.sh
 ```
 
